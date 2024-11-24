@@ -33,7 +33,7 @@ ARG,Summer,2016,0,21,1,22,32
 ARM,Summer,1996,0,1,1,2,51
 ARM,Summer,2000,1,0,0,1,51
 ARM,Summer,2008,6,0,0,6,51
-ARM,Summer,2012,2,0,1,3,51git commit -m "Add info_visual folder with visualizations"
+ARM,Summer,2012,2,0,1,3,51
 ARM,Summer,2016,0,1,3,4,51
 AUS,Summer,1896,1,2,0,3,36
 AUS,Summer,1900,3,3,0,6,36
