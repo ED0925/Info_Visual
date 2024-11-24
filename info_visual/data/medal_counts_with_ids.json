@@ -1,0 +1,42 @@
+[
+    {
+        "id": 4,
+        "medal_count": 10,
+        "noc": "AFG"
+    },
+    {
+        "id": 36,
+        "medal_count": 1320,
+        "noc": "AUS"
+    },
+    {
+        "id": 156,
+        "medal_count": 2700,
+        "noc": "CHN"
+    },
+    {
+        "id": 276,
+        "medal_count": 1800,
+        "noc": "DEU"
+    },
+    {
+        "id": 392,
+        "medal_count": 5000,
+        "noc": "JPN"
+    },
+    {
+        "id": 840,
+        "medal_count": 7000,
+        "noc": "USA"
+    },
+    {
+        "id": 826,
+        "medal_count": 3500,
+        "noc": "GBR"
+    },
+    {
+        "id": 250,
+        "medal_count": 2200,
+        "noc": "FRA"
+    }
+]
